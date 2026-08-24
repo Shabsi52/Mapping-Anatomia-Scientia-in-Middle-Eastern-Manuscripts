@@ -1,0 +1,42 @@
+<nav class="main-nav">
+    <ul class="nav-menu">
+
+        <!-- Home -->
+        <li class="dropdown">
+            <a href="index.html">Home</a>
+            <ul class="dropdown-menu">
+                <li><a href="index.html">Homepage</a></li>
+            </ul>
+        </li>
+
+        <!-- About -->
+        <li>
+            <a href="about.html">About</a>
+        </li>
+
+        <!-- News & Events -->
+        <li class="dropdown">
+            <a href="#">News &amp; Events</a>
+            <ul class="dropdown-menu">
+                <li><a href="news.html">News</a></li>
+                <li><a href="events.html">Events</a></li>
+            </ul>
+        </li>
+
+        <!-- Persons & Places -->
+        <li>
+            <a href="persons-places.html">Persons &amp; Places</a>
+        </li>
+
+        <!-- Anatomia Scientia -->
+        <li>
+            <a href="anatomia-scientia.html">Anatomia Scientia</a>
+        </li>
+
+        <!-- Documents -->
+        <li>
+            <a href="documents.html">Documents</a>
+        </li>
+
+    </ul>
+</nav>
